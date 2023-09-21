@@ -1,1 +1,1 @@
-<img src="result-pic.png" alt="shot of the website"/>
+<img src="./result-pic.PNG"/>
